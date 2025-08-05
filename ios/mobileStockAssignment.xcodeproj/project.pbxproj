@@ -7,24 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		006C35DE5C054FAF9F649976 /* sf-ui-display-thin-58646e9b26e8b.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5DD04805A33D466EB3C48D8E /* sf-ui-display-thin-58646e9b26e8b.otf */; };
 		0C80B921A6F3F58F76C31292 /* libPods-mobileStockAssignment.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-mobileStockAssignment.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		18576A6E4AFF4179AA4EDFC9 /* sf-ui-display-heavy-586470160b9e5.otf in Resources */ = {isa = PBXBuildFile; fileRef = 9167211A4CBC49F28EED87BA /* sf-ui-display-heavy-586470160b9e5.otf */; };
+		26B96E2F370844299D59C73A /* sf-ui-display-ultralight-58646b19bf205.otf in Resources */ = {isa = PBXBuildFile; fileRef = 69FC1B5D55EC41019BD16A41 /* sf-ui-display-ultralight-58646b19bf205.otf */; };
+		2E14BFE379444C8D9C0647A8 /* Manrope-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9EF24CFA866490299B5FD60 /* Manrope-SemiBold.ttf */; };
+		3496DE089C8A48F88DBD4BFB /* sf-ui-display-black-58646a6b80d5a.otf in Resources */ = {isa = PBXBuildFile; fileRef = F437CF411C7E41188C5545E5 /* sf-ui-display-black-58646a6b80d5a.otf */; };
+		37F64CF6EAC24D709077D294 /* sf-ui-display-semibold-58646eddcae92.otf in Resources */ = {isa = PBXBuildFile; fileRef = A287369D999F451CA378DF57 /* sf-ui-display-semibold-58646eddcae92.otf */; };
+		48CF03504C5943C48AC05277 /* Manrope-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6C7B91D921CD4548B396C9A0 /* Manrope-ExtraLight.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
+		78BFB4593E00493A9524ACDB /* sf-ui-display-medium-58646be638f96.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5394C9CBF4DB4133B5CA606C /* sf-ui-display-medium-58646be638f96.otf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		9E273A527C7806717835C981 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
+		A564C39DDE224A869623A796 /* Manrope-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8CA55DB92AF449ECBA036442 /* Manrope-ExtraBold.ttf */; };
+		AFC807F5E90A4401A5978426 /* Manrope-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 86EE081F68F2429BB3CDBA53 /* Manrope-Light.ttf */; };
+		B72AD032227F4553BDB2CDEC /* Manrope-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BBCCBAC8FB2B48A49BA6618E /* Manrope-Bold.ttf */; };
+		BA89B0492CF8470DBF39A973 /* Manrope-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 987AD80C68634D0EA61F1552 /* Manrope-Medium.ttf */; };
+		BDBE4FBD68A649008D1EAECB /* sf-ui-display-bold-58646a511e3d9.otf in Resources */ = {isa = PBXBuildFile; fileRef = EF472B104911480D99C669C4 /* sf-ui-display-bold-58646a511e3d9.otf */; };
+		D247334CF8884CF7AED62F0E /* sf-ui-display-light-58646b33e0551.otf in Resources */ = {isa = PBXBuildFile; fileRef = 5AE085EFAEF94A5391A0FF4C /* sf-ui-display-light-58646b33e0551.otf */; };
+		EF0D8DA145F1426388177944 /* Manrope-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0A5284F961C746E0B8A51F49 /* Manrope-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A5284F961C746E0B8A51F49 /* Manrope-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Regular.ttf"; path = "../src/assets/fonts/Manrope-Regular.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* mobileStockAssignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mobileStockAssignment.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = mobileStockAssignment/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = mobileStockAssignment/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = mobileStockAssignment/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-mobileStockAssignment.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mobileStockAssignment.debug.xcconfig"; path = "Target Support Files/Pods-mobileStockAssignment/Pods-mobileStockAssignment.debug.xcconfig"; sourceTree = "<group>"; };
+		5394C9CBF4DB4133B5CA606C /* sf-ui-display-medium-58646be638f96.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "sf-ui-display-medium-58646be638f96.otf"; path = "../src/assets/fonts/sf-ui-display-medium-58646be638f96.otf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-mobileStockAssignment.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mobileStockAssignment.release.xcconfig"; path = "Target Support Files/Pods-mobileStockAssignment/Pods-mobileStockAssignment.release.xcconfig"; sourceTree = "<group>"; };
+		5AE085EFAEF94A5391A0FF4C /* sf-ui-display-light-58646b33e0551.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "sf-ui-display-light-58646b33e0551.otf"; path = "../src/assets/fonts/sf-ui-display-light-58646b33e0551.otf"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-mobileStockAssignment.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-mobileStockAssignment.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DD04805A33D466EB3C48D8E /* sf-ui-display-thin-58646e9b26e8b.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "sf-ui-display-thin-58646e9b26e8b.otf"; path = "../src/assets/fonts/sf-ui-display-thin-58646e9b26e8b.otf"; sourceTree = "<group>"; };
+		69FC1B5D55EC41019BD16A41 /* sf-ui-display-ultralight-58646b19bf205.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "sf-ui-display-ultralight-58646b19bf205.otf"; path = "../src/assets/fonts/sf-ui-display-ultralight-58646b19bf205.otf"; sourceTree = "<group>"; };
+		6C7B91D921CD4548B396C9A0 /* Manrope-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-ExtraLight.ttf"; path = "../src/assets/fonts/Manrope-ExtraLight.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = mobileStockAssignment/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = mobileStockAssignment/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		86EE081F68F2429BB3CDBA53 /* Manrope-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Light.ttf"; path = "../src/assets/fonts/Manrope-Light.ttf"; sourceTree = "<group>"; };
+		8CA55DB92AF449ECBA036442 /* Manrope-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-ExtraBold.ttf"; path = "../src/assets/fonts/Manrope-ExtraBold.ttf"; sourceTree = "<group>"; };
+		9167211A4CBC49F28EED87BA /* sf-ui-display-heavy-586470160b9e5.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "sf-ui-display-heavy-586470160b9e5.otf"; path = "../src/assets/fonts/sf-ui-display-heavy-586470160b9e5.otf"; sourceTree = "<group>"; };
+		987AD80C68634D0EA61F1552 /* Manrope-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Medium.ttf"; path = "../src/assets/fonts/Manrope-Medium.ttf"; sourceTree = "<group>"; };
+		A287369D999F451CA378DF57 /* sf-ui-display-semibold-58646eddcae92.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "sf-ui-display-semibold-58646eddcae92.otf"; path = "../src/assets/fonts/sf-ui-display-semibold-58646eddcae92.otf"; sourceTree = "<group>"; };
+		A9EF24CFA866490299B5FD60 /* Manrope-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-SemiBold.ttf"; path = "../src/assets/fonts/Manrope-SemiBold.ttf"; sourceTree = "<group>"; };
+		BBCCBAC8FB2B48A49BA6618E /* Manrope-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Manrope-Bold.ttf"; path = "../src/assets/fonts/Manrope-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		EF472B104911480D99C669C4 /* sf-ui-display-bold-58646a511e3d9.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "sf-ui-display-bold-58646a511e3d9.otf"; path = "../src/assets/fonts/sf-ui-display-bold-58646a511e3d9.otf"; sourceTree = "<group>"; };
+		F437CF411C7E41188C5545E5 /* sf-ui-display-black-58646a6b80d5a.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "sf-ui-display-black-58646a6b80d5a.otf"; path = "../src/assets/fonts/sf-ui-display-black-58646a6b80d5a.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +90,29 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		56EA0C105D1244F293D683D7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F437CF411C7E41188C5545E5 /* sf-ui-display-black-58646a6b80d5a.otf */,
+				EF472B104911480D99C669C4 /* sf-ui-display-bold-58646a511e3d9.otf */,
+				9167211A4CBC49F28EED87BA /* sf-ui-display-heavy-586470160b9e5.otf */,
+				5AE085EFAEF94A5391A0FF4C /* sf-ui-display-light-58646b33e0551.otf */,
+				5394C9CBF4DB4133B5CA606C /* sf-ui-display-medium-58646be638f96.otf */,
+				A287369D999F451CA378DF57 /* sf-ui-display-semibold-58646eddcae92.otf */,
+				5DD04805A33D466EB3C48D8E /* sf-ui-display-thin-58646e9b26e8b.otf */,
+				69FC1B5D55EC41019BD16A41 /* sf-ui-display-ultralight-58646b19bf205.otf */,
+				BBCCBAC8FB2B48A49BA6618E /* Manrope-Bold.ttf */,
+				8CA55DB92AF449ECBA036442 /* Manrope-ExtraBold.ttf */,
+				6C7B91D921CD4548B396C9A0 /* Manrope-ExtraLight.ttf */,
+				86EE081F68F2429BB3CDBA53 /* Manrope-Light.ttf */,
+				987AD80C68634D0EA61F1552 /* Manrope-Medium.ttf */,
+				0A5284F961C746E0B8A51F49 /* Manrope-Regular.ttf */,
+				A9EF24CFA866490299B5FD60 /* Manrope-SemiBold.ttf */,
+			);
+			name = Resources;
+			path = "";
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -75,6 +128,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				56EA0C105D1244F293D683D7 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -161,6 +215,21 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				9E273A527C7806717835C981 /* PrivacyInfo.xcprivacy in Resources */,
+				3496DE089C8A48F88DBD4BFB /* sf-ui-display-black-58646a6b80d5a.otf in Resources */,
+				BDBE4FBD68A649008D1EAECB /* sf-ui-display-bold-58646a511e3d9.otf in Resources */,
+				18576A6E4AFF4179AA4EDFC9 /* sf-ui-display-heavy-586470160b9e5.otf in Resources */,
+				D247334CF8884CF7AED62F0E /* sf-ui-display-light-58646b33e0551.otf in Resources */,
+				78BFB4593E00493A9524ACDB /* sf-ui-display-medium-58646be638f96.otf in Resources */,
+				37F64CF6EAC24D709077D294 /* sf-ui-display-semibold-58646eddcae92.otf in Resources */,
+				006C35DE5C054FAF9F649976 /* sf-ui-display-thin-58646e9b26e8b.otf in Resources */,
+				26B96E2F370844299D59C73A /* sf-ui-display-ultralight-58646b19bf205.otf in Resources */,
+				B72AD032227F4553BDB2CDEC /* Manrope-Bold.ttf in Resources */,
+				A564C39DDE224A869623A796 /* Manrope-ExtraBold.ttf in Resources */,
+				48CF03504C5943C48AC05277 /* Manrope-ExtraLight.ttf in Resources */,
+				AFC807F5E90A4401A5978426 /* Manrope-Light.ttf in Resources */,
+				BA89B0492CF8470DBF39A973 /* Manrope-Medium.ttf in Resources */,
+				EF0D8DA145F1426388177944 /* Manrope-Regular.ttf in Resources */,
+				2E14BFE379444C8D9C0647A8 /* Manrope-SemiBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

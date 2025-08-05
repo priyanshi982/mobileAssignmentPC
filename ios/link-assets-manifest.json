@@ -1,0 +1,65 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Manrope-Bold.ttf",
+      "sha1": "dbc0b874ad8b9f3415d0e9b4e22907890ca72327"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-ExtraBold.ttf",
+      "sha1": "df131208d5c08ff782fbf12c264f473d8dacd83e"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-ExtraLight.ttf",
+      "sha1": "bc714297659d8d6d987142c11987df3fe6f04b4e"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Light.ttf",
+      "sha1": "27d7897032dc0615ace6c53fd292107ae53280e5"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Medium.ttf",
+      "sha1": "b5e2c6265e0919163142bb8eac9b6450fb91f920"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-Regular.ttf",
+      "sha1": "3f36e4904a42d23273ac346047c1b6bcf067ccfc"
+    },
+    {
+      "path": "src/assets/fonts/Manrope-SemiBold.ttf",
+      "sha1": "f7a023cd6c102b2ffa8bf729579552445970d62d"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-black-58646a6b80d5a.otf",
+      "sha1": "95a211f130be0584bca8b96f8886fa26e54e4c33"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-bold-58646a511e3d9.otf",
+      "sha1": "7e7bc546371839f6261b7aa3614a7ee270a12504"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-heavy-586470160b9e5.otf",
+      "sha1": "07db5cccbe455aa9d3741ce76e1254a714a4d0de"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-light-58646b33e0551.otf",
+      "sha1": "9bbfb53fa3a4004f6da5820bb2d3ea92135308bb"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-medium-58646be638f96.otf",
+      "sha1": "cdedea75635f4ca94dc758b2c8022334b5bb1d6b"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-semibold-58646eddcae92.otf",
+      "sha1": "8e147d5a6d7902810cfae7d30b637c84f9e8315f"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-thin-58646e9b26e8b.otf",
+      "sha1": "1bac9bcddeb5bac4bbf3a86e2006351ead8e5b90"
+    },
+    {
+      "path": "src/assets/fonts/sf-ui-display-ultralight-58646b19bf205.otf",
+      "sha1": "554e2532435878343790ce55a0a877224548bee8"
+    }
+  ]
+}
